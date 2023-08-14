@@ -1,0 +1,9 @@
+weight: 4
+title: "Git and GitHub"
+description: >
+  <ul class="list-style-none">
+    <li>Know your history</li>
+    <li>Collaborate with others</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+href: "https://devcows.github.io/hugo-universal-theme/"
