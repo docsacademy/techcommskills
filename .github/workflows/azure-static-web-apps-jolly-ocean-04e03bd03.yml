@@ -43,3 +43,6 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_JOLLY_OCEAN_04E03BD03 }}
           action: "close"
+
+with:
+  skip_app_build: true
